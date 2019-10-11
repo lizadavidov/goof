@@ -44,3 +44,6 @@ patch:
         patched: '2019-10-10T03:28:58.692Z'
     - mongoose > async > lodash:
         patched: '2019-10-10T03:28:58.692Z'
+  'npm:ms:20151024':
+    - humanize-ms > ms:
+        patched: '2019-10-11T20:58:29.601Z'
